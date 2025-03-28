@@ -29,3 +29,9 @@ These replications serve as teaching tools for students to:
 - Understand applied statistics in published research
 - Practice using SPSS for academic replication
 - Build skills in data handling, model replication, and statistical interpretation
+
+## Contact
+
+**Erik Franke**  
+efranke@falcon.bentley.edu  
+Bentley University Academic Technology Center | Research Assistant
